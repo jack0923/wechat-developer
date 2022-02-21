@@ -1,1 +1,1 @@
-# wechat-developer
+仅适用于自己项目
